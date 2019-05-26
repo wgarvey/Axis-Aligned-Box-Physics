@@ -1,10 +1,19 @@
 # Axis-Aligned-Box-Physics
 
+## Test
+Test requires pygame
+```
+pip install pygame
+```
+
 To test run:
 ```
 SpaceTest.pyw
 ```
 
+Use arrow keys to manipulate a box.
+
+## Description
 An Axis-Aligned Box Physics module that allows for the creation of Space, Entity and Concrete Objects.
 Entity and Concrete Objects are PhysObjs (Physics Objects) that exist and interract within
 the Space. A Concrete Objects may interract with Entity Objects but not other Concrete objects.
