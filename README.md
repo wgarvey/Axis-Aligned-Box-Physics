@@ -8,7 +8,7 @@ Test requires pygame
 pip install pygame
 ```
 
-To test run:
+To run SpaceTest.pyw:
 ```
 SpaceTest.pyw
 ```
